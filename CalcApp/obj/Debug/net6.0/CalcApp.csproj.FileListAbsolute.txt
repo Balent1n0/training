@@ -1,0 +1,15 @@
+C:\Users\5009044\Documents\gittrane\CalcApp\bin\Debug\net6.0\CalcApp.exe
+C:\Users\5009044\Documents\gittrane\CalcApp\bin\Debug\net6.0\CalcApp.deps.json
+C:\Users\5009044\Documents\gittrane\CalcApp\bin\Debug\net6.0\CalcApp.runtimeconfig.json
+C:\Users\5009044\Documents\gittrane\CalcApp\bin\Debug\net6.0\CalcApp.dll
+C:\Users\5009044\Documents\gittrane\CalcApp\bin\Debug\net6.0\CalcApp.pdb
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.csproj.AssemblyReference.cache
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfoInputs.cache
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfo.cs
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.dll
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\refint\CalcApp.dll
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.pdb
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\CalcApp.genruntimeconfig.cache
+C:\Users\5009044\Documents\gittrane\CalcApp\obj\Debug\net6.0\ref\CalcApp.dll
